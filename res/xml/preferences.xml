@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <com.sperko.quotz.prefs.DeleteQuotePreference
+        android:key="pref_delete_quote"
+        android:title="@string/pref_delete_quote"
+        android:dialogTitle="@string/pref_delete_quote" /> 
+    <com.sperko.quotz.prefs.AddQuotePreference
+        android:key="pref_add_quote"
+        android:title="@string/pref_add_quote"
+        android:dialogTitle="@string/pref_add_quote" />
+    <CheckBoxPreference
+        android:key="pref_night_theme"
+        android:title="@string/pref_night_theme"/> 
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quotz</string>
+    <string name="quote">Quote</string>
+    <string name="next">Gimme another</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pref_delete_quote">Delete Quote</string>
+    <string name="pref_add_quote">Add Quote</string>
+    <string name="pref_night_theme">Night Theme</string>
+    
+    <string-array name="quotes">
+<item>Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe. -Albert Einstein</item> 
+<item>There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle. -Albert Einstein</item>
+<item>I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. -Albert Einstein</item>
+<item>Be the change that you wish to see in the world. -Mahatma Gandhi</item>
+<item>Live as if you were to die tomorrow. Learn as if you were to live forever. -Mahatma Gandhi</item>
+<item>An eye for an eye will only make the whole world blind. -Mahatma Gandhi</item>
+<item>If you tell the truth, you don\'t have to remember anything. -Mark Twain</item>
+<item>Whenever you find yourself on the side of the majority, it is time to pause and reflect.  -Mark Twain</item>
+<item>Good friends, good books, and a sleepy conscience: this is the ideal life. -Mark Twain</item>
+    </string-array>
+
+</resources>
